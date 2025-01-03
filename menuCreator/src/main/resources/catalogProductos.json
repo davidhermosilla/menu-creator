@@ -1,0 +1,1189 @@
+{
+	"catalogo": [
+		{
+			"codigo": "AP01",
+			"nombre": "APERITIVOS",
+			"productos": [
+				{
+					"codigo": "PLA011000",
+					"nombre": "MESA DE PATATAS FRITAS Y ACEITUNAS",
+					"precio": 0.0
+				},
+				{
+					"codigo": "PLA011001",
+					"nombre": "APERITIVOS FRIOS (12 UNIDADES)",
+					"precio": 5.0
+				},
+				{
+					"codigo": "PLA011002",
+					"nombre": "APERITIVOS CALIENTES (8 UNIDADES)",
+					"precio": 6.5
+				}
+			]
+		},
+		{
+			"codigo": "AP02",
+			"nombre": "CHACINAS",
+			"productos": [
+				{
+					"codigo": "PLA010021",
+					"nombre": "JAMON IBERICO",
+					"precio": 5.7000000000000002
+				},
+				{
+					"codigo": "PLA010022",
+					"nombre": "JAMÓN IBÉRICO CALIDAD ORO",
+					"precio": 11.199999999999999
+				},
+				{
+					"codigo": "PLA010058",
+					"nombre": "LOMO IBÉRICO, QUESO DE OVEJA Y PARMESANO",
+					"precio": 3.0
+				},
+				{
+					"codigo": "PLA11003",
+					"nombre": "BUFETTE DE QUESOS Y CHACINAS",
+					"precio": 3.0
+				}
+			]
+		},
+		{
+			"codigo": "AP03",
+			"nombre": "OTROS COPA DE ESPERA",
+			"productos": [
+				{
+					"codigo": "OCE010001",
+					"nombre": "ARBOL DE CERVEZAS PREMIUM",
+					"precio": 1.5
+				}
+			]
+		},
+		{
+			"codigo": "EN01",
+			"nombre": "ENTRANTES",
+			"productos": [
+				{
+					"codigo": "PLA030002",
+					"nombre": "COGOLLOS DE TUDELA CON SALMÓN Y ANCHOAS",
+					"precio": 3.1000000000000001
+				},
+				{
+					"codigo": "PLA030071",
+					"nombre": "CREMOSO DE ANCHOAS",
+					"precio": 0.80000000000000004
+				},
+				{
+					"codigo": "PLA030057",
+					"nombre": "CREMOSO DE BOLETUS",
+					"precio": 0.80000000000000004
+				},
+				{
+					"codigo": "PLA030072",
+					"nombre": "CREPÊS DE LECHON",
+					"precio": 2.0
+				},
+				{
+					"codigo": "PLA030029",
+					"nombre": "CREPÊS DE MARISCO",
+					"precio": 2.0
+				},
+				{
+					"codigo": "PLA030073",
+					"nombre": "FAJITA DE OSOBUCO",
+					"precio": 2.5
+				},
+				{
+					"codigo": "PLA030076",
+					"nombre": "HOJALDRE DE CARRILLADA IBÉRICA",
+					"precio": 3.1000000000000001
+				},
+				{
+					"codigo": "PLA030046",
+					"nombre": "HOJALDRE RELLENO AL ESTILO NAZARÍ",
+					"precio": 2.5
+				},
+				{
+					"codigo": "PLA030060",
+					"nombre": "LACÓN A LA GALLEGA",
+					"precio": 0.80000000000000004
+				},
+				{
+					"codigo": "PLA030015",
+					"nombre": "LOMO DE ORZA CON SALMOREJO",
+					"precio": 2.1000000000000001
+				},
+				{
+					"codigo": "PLA030049",
+					"nombre": "PASTEL DE CIERVO A LA ANDUJAREÑA",
+					"precio": 1.8
+				},
+				{
+					"codigo": "PLA030074",
+					"nombre": "PASTEL DE SALMÓN",
+					"precio": 2.6000000000000001
+				},
+				{
+					"codigo": "PLA030079",
+					"nombre": "PATÉ DE CIERVO",
+					"precio": 1.1000000000000001
+				},
+				{
+					"codigo": "PLA030001",
+					"nombre": "PATÉ DE PERDIZ CON ACEITE DE OLIVA VIRGEN",
+					"precio": 1.1000000000000001
+				},
+				{
+					"codigo": "PLA030007",
+					"nombre": "PIMIENTOS DE PIQUILLO RELLENOS DE BACALAO",
+					"precio": 1.3999999999999999
+				},
+				{
+					"codigo": "PLA030058",
+					"nombre": "PIMIENTOS DE PIQUILLO RELLENOS DE RABO DE TORO",
+					"precio": 1.8
+				},
+				{
+					"codigo": "PLA030019",
+					"nombre": "PULPO A LA GALLEGA",
+					"precio": 4.2999999999999998
+				},
+				{
+					"codigo": "PLA030059",
+					"nombre": "QUESO PROVOLONE AL HORNO",
+					"precio": 1.5
+				},
+				{
+					"codigo": "PLA030052",
+					"nombre": "ROLLITOS DE AVE CON SALSA TÁRTARA",
+					"precio": 2.5
+				},
+				{
+					"codigo": "PLA030053",
+					"nombre": "ROLLITOS DE SALMÓN CON SALSA COCKTAIL",
+					"precio": 2.0
+				},
+				{
+					"codigo": "PLA030068",
+					"nombre": "ROLLITOS DEL CANTABRICO",
+					"precio": 2.6000000000000001
+				},
+				{
+					"codigo": "PLA030016",
+					"nombre": "SALMOREJO CORDOBÉS",
+					"precio": 1.3999999999999999
+				},
+				{
+					"codigo": "PLA030078",
+					"nombre": "SURTIDO DE QUESO DE OVEJA, JAMÓN, SALCHICHÓN Y CHORIZO IBÉRICOS",
+					"precio": 9.0
+				},
+				{
+					"codigo": "PLA030063",
+					"nombre": "SURTIDO DE QUESO DE OVEJA Y JAMÓN IBÉRICO",
+					"precio": 6.2999999999999998
+				},
+				{
+					"codigo": "PLA030023",
+					"nombre": "SURTIDO DE QUESO DE OVEJA Y LOMO Y JAMON IBERICOS",
+					"precio": 7.5999999999999996
+				},
+				{
+					"codigo": "PLA030077",
+					"nombre": "VESUBIO DE BERENJENA",
+					"precio": 1.3999999999999999
+				},
+				{
+					"codigo": "PLA030056",
+					"nombre": "VOULEVANT DE AVE CON CHAMPIÑONES",
+					"precio": 3.7000000000000002
+				}
+			]
+		},
+		{
+			"codigo": "MA01",
+			"nombre": "MARISCOS",
+			"productos": [
+				{
+					"codigo": "PLA040005",
+					"nombre": "BOGAVANTES",
+					"precio": 20.0
+				},
+				{
+					"codigo": "PLA040007",
+					"nombre": "CARABINEROS",
+					"precio": 4.2000000000000002
+				},
+				{
+					"codigo": "PLA040004",
+					"nombre": "CIGALAS",
+					"precio": 7.7000000000000002
+				},
+				{
+					"codigo": "PLA040012",
+					"nombre": "ENSALADA DE BOGAVANTE",
+					"precio": 20.0
+				},
+				{
+					"codigo": "PLA040011",
+					"nombre": "ENSALADA DE PULPO CON LANGOSTINOS",
+					"precio": 8.5
+				},
+				{
+					"codigo": "PLA040145",
+					"nombre": "ENSALADA TEMPLADA DE CARABINEROS Y GULAS",
+					"precio": 12.5
+				},
+				{
+					"codigo": "PLA040001",
+					"nombre": "GAMBAS BLANCAS",
+					"precio": 1.3
+				},
+				{
+					"codigo": "PLA040014",
+					"nombre": "GAMBAS ROJAS",
+					"precio": 4.0
+				},
+				{
+					"codigo": "PLA040003",
+					"nombre": "GAMBONES",
+					"precio": 1.8999999999999999
+				},
+				{
+					"codigo": "PLA040010",
+					"nombre": "LANGOSTINOS",
+					"precio": 2.5
+				},
+				{
+					"codigo": "PLA040002",
+					"nombre": "LANGOSTINO RAYADO",
+					"precio": 3.7000000000000002
+				},
+				{
+					"codigo": "PLA040016",
+					"nombre": "NÉCORA",
+					"precio": 5.0999999999999996
+				},
+				{
+					"codigo": "PLA030055",
+					"nombre": "VIEIRA A LA GALLEGA CON LANGOSTINOS",
+					"precio": 3.5
+				},
+				{
+					"codigo": "PLA040008",
+					"nombre": "VIEIRA GRATINADA",
+					"precio": 3.0
+				},
+				{
+					"codigo": "PLA030035",
+					"nombre": "ZAMBURIÑA A LA GALLEGA",
+					"precio": 1.6000000000000001
+				}
+			]
+		},
+		{
+			"codigo": "PE01",
+			"nombre": "BACALAO",
+			"productos": [
+				{
+					"codigo": "PLA060030",
+					"nombre": "BACALAO A LA VIZCAÍNA",
+					"precio": 20.0
+				},
+				{
+					"codigo": "PLA060006",
+					"nombre": "BACALAO GRATINADO SOBRE LECHO DE ESPINACAS",
+					"precio": 13.1
+				},
+				{
+					"codigo": "PLA060033",
+					"nombre": "LOMO DE BACALAO CONFITADO CON ACEITE DE AJO",
+					"precio": 20.0
+				}
+			]
+		},
+		{
+			"codigo": "PE02",
+			"nombre": "DORADA",
+			"productos": [
+				{
+					"codigo": "PLA060039",
+					"nombre": "DORADA AL HORNO CON PATATAS EN SU JUGO",
+					"precio": 10.699999999999999
+				}
+			]
+		},
+		{
+			"codigo": "PE03",
+			"nombre": "LUBINA",
+			"productos": [
+				{
+					"codigo": "PLA060048",
+					"nombre": "LUBINA CON INFUSIÓN DE CARABINEROS",
+					"precio": 11.800000000000001
+				}
+			]
+		},
+		{
+			"codigo": "PE04",
+			"nombre": "PEZ ESPADA",
+			"productos": [
+				{
+					"codigo": "PLA060034",
+					"nombre": "MILHOJAS DE PEZ ESPADA CON SALSA DE CARABINEROS",
+					"precio": 11.0
+				},
+				{
+					"codigo": "PLA060038",
+					"nombre": "PUPIETAS DE PEZ ESPADA CON SALSA DE CARABINEROS",
+					"precio": 11.199999999999999
+				}
+			]
+		},
+		{
+			"codigo": "PE05",
+			"nombre": "SALMÓN",
+			"productos": [
+				{
+					"codigo": "PLA060044",
+					"nombre": "CACHOPO DE SALMÓN A LA NARANJA",
+					"precio": 13.0
+				},
+				{
+					"codigo": "PLA060035",
+					"nombre": "SALMÓN RELLENO DE LANGOSTINOS CON SALSA FRANCESA",
+					"precio": 15.0
+				},
+				{
+					"codigo": "PLA060036",
+					"nombre": "SUPREMA DE SALMÓN CON ACEITE DE LIMÓN Y VAINILLA",
+					"precio": 13.0
+				}
+			]
+		},
+		{
+			"codigo": "PE06",
+			"nombre": "OTROS PESCADOS",
+			"productos": [
+				{
+					"codigo": "PLA060049",
+					"nombre": "CORVINA CON FRUTOS DEL MAR",
+					"precio": 12.5
+				},
+				{
+					"codigo": "PLA060032",
+					"nombre": "LENGUADO MENIER",
+					"precio": 9.1999999999999993
+				},
+				{
+					"codigo": "PLA060015",
+					"nombre": "MERLUZA A LA VASCA",
+					"precio": 17.0
+				},
+				{
+					"codigo": "PLA060024",
+					"nombre": "RAPE A LA MARINERA",
+					"precio": 15.199999999999999
+				},
+				{
+					"codigo": "PLA060047",
+					"nombre": "RODABALLO EN SALSA VERDE",
+					"precio": 19.199999999999999
+				},
+				{
+					"codigo": "PLA060040",
+					"nombre": "ROSADA A LA MARINERA",
+					"precio": 10.4
+				}
+			]
+		},
+		{
+			"codigo": "SO01",
+			"nombre": "SORBETES",
+			"productos": [
+				{
+					"codigo": "PLA050001",
+					"nombre": "SORBETE DE LIMÓN",
+					"precio": 2.2999999999999998
+				},
+				{
+					"codigo": "PLA050010",
+					"nombre": "SORBETE DE MELÓN",
+					"precio": 2.2999999999999998
+				},
+				{
+					"codigo": "PLA050007",
+					"nombre": "SORBETE DE MOJITO",
+					"precio": 2.2999999999999998
+				},
+				{
+					"codigo": "PLA050011",
+					"nombre": "SORBETE DE PIÑA COLADA",
+					"precio": 2.2999999999999998
+				},
+				{
+					"codigo": "PLA050009",
+					"nombre": "SORBETE DE PUERTO DE INDIAS",
+					"precio": 2.2999999999999998
+				},
+				{
+					"codigo": "PLA050008",
+					"nombre": "SORBETE TROPICAL",
+					"precio": 2.2999999999999998
+				}
+			]
+		},
+		{
+			"codigo": "CA06",
+			"nombre": "CERDO BLANCO",
+			"productos": [
+				{
+					"codigo": "PLA070059",
+					"nombre": "ABANICO DE CERDO A LA EXTREMEÑA",
+					"precio": 0.0
+				},
+				{
+					"codigo": "PLA070029",
+					"nombre": "ABANICO DE CERDO CON SALSA DE SETAS",
+					"precio": 0.0
+				},
+				{
+					"codigo": "PLA070051",
+					"nombre": "CARRILLADA DE CERDO CON REDUCCION DE PEDRO XIMENEZ",
+					"precio": 10.0
+				},
+				{
+					"codigo": "PLA070049",
+					"nombre": "CHURRASCO DE CERDO A LA CAZADORA",
+					"precio": 10.0
+				},
+				{
+					"codigo": "PLA070055",
+					"nombre": "MILHOJA DE SOLOMILLO DE CERDO CON CREMA DE CHEDAR",
+					"precio": 10.0
+				},
+				{
+					"codigo": "PLA070057",
+					"nombre": "MILHOJAS DE PRESA CON SALSA DE ALMENDRAS",
+					"precio": 10.0
+				},
+				{
+					"codigo": "PLA070036",
+					"nombre": "PLUMA DE CERDO A LA EXTREMEÑA",
+					"precio": 8.0
+				},
+				{
+					"codigo": "PLA070005",
+					"nombre": "PRESA DE CERDO CON SALSA DE BOLETUS",
+					"precio": 9.0
+				},
+				{
+					"codigo": "PLA070038",
+					"nombre": "SECRETO DE CERDO A LA CAZADORA",
+					"precio": 10.0
+				},
+				{
+					"codigo": "PLA070039",
+					"nombre": "SOLOMILLO DE CERDO A LA MILANESA",
+					"precio": 10.0
+				},
+				{
+					"codigo": "PLA070040",
+					"nombre": "SOLOMILLO DE CERDO A LA PIMIENTA VERDE",
+					"precio": 10.0
+				},
+				{
+					"codigo": "PLA070050",
+					"nombre": "SOLOMILLO DE CERDO RELLENO DE FOIE CON SALSA DE TRUFA",
+					"precio": 10.0
+				},
+				{
+					"codigo": "PLA070052",
+					"nombre": "TIMBAL DE CARRILLADA A LA JARDINERA",
+					"precio": 10.0
+				},
+				{
+					"codigo": "PLA070042",
+					"nombre": "TOURNEDO DE SOLOMILLO CON SALSA DE SETAS",
+					"precio": 10.0
+				},
+				{
+					"codigo": "PLA070058",
+					"nombre": "TRENZA DE SOLOMILLO AL ESTILO NAPOLITANO",
+					"precio": 10.0
+				}
+			]
+		},
+		{
+			"codigo": "CA02",
+			"nombre": "CERDO IBERICO",
+			"productos": [
+				{
+					"codigo": "PLA070059.1",
+					"nombre": "ABANICO IBÉRICO A LA EXTREMEÑA",
+					"precio": 12.0
+				},
+				{
+					"codigo": "PLA070029.1",
+					"nombre": "ABANICO IBÉRICO CON SALSA DE SETAS",
+					"precio": 11.0
+				},
+				{
+					"codigo": "PLA070051.1",
+					"nombre": "CARRILLADA IBÉRICA CON REDUCCION DE PEDRO XIMENEZ",
+					"precio": 13.0
+				},
+				{
+					"codigo": "PLA070049.1",
+					"nombre": "CHURRASCO IBÉRICO A LA CAZADORA",
+					"precio": 17.5
+				},
+				{
+					"codigo": "PLA070055.1",
+					"nombre": "MILHOJA DE SOLOMILLO IBÉRICO CON CREMA DE CHEDAR",
+					"precio": 17.5
+				},
+				{
+					"codigo": "PLA070057.1",
+					"nombre": "MILHOJAS DE PRESA IBÉRICA CON SALSA DE ALMENDRAS",
+					"precio": 15.0
+				},
+				{
+					"codigo": "PLA070036.1",
+					"nombre": "PLUMA IBÉRICA A LA EXTREMEÑA",
+					"precio": 15.0
+				},
+				{
+					"codigo": "PLA070005.1",
+					"nombre": "PRESA IBÉRICA CON SALSA DE BOLETUS",
+					"precio": 15.0
+				},
+				{
+					"codigo": "PLA070038.1",
+					"nombre": "SECRETO IBÉRICO A LA CAZADORA",
+					"precio": 13.5
+				},
+				{
+					"codigo": "PLA070039.1",
+					"nombre": "SOLOMILLO IBÉRICO A LA MILANESA",
+					"precio": 17.5
+				},
+				{
+					"codigo": "PLA070040.1",
+					"nombre": "SOLOMILLO IBÉRICO A LA PIMIENTA VERDE",
+					"precio": 17.5
+				},
+				{
+					"codigo": "PLA070050.1",
+					"nombre": "SOLOMILLO IBÉRICO RELLENO DE FOIE CON SALSA DE TRUFA",
+					"precio": 17.5
+				},
+				{
+					"codigo": "PLA070052.1",
+					"nombre": "TIMBAL DE CARRILLADA IBÉRICA A LA JARDINERA",
+					"precio": 13.0
+				},
+				{
+					"codigo": "PLA070058.1",
+					"nombre": "TRENZA DE SOLOMILLO IBÉRICO AL ESTILO NAPOLITANO",
+					"precio": 17.5
+				}
+			]
+		},
+		{
+			"codigo": "CA03",
+			"nombre": "CHOTO",
+			"productos": [
+				{
+					"codigo": "PLA070026",
+					"nombre": "PALETILLA DE CHOTO AL HORNO",
+					"precio": 30.0
+				},
+				{
+					"codigo": "PLA070016",
+					"nombre": "PIERNA DE CHOTO AL HORNO",
+					"precio": 23.0
+				}
+			]
+		},
+		{
+			"codigo": "CA04",
+			"nombre": "CORDERO",
+			"productos": [
+				{
+					"codigo": "PLA070030",
+					"nombre": "CORDERO A LA MIEL",
+					"precio": 17.0
+				},
+				{
+					"codigo": "PLA070053",
+					"nombre": "CORDERO A LA SEGOVIANA",
+					"precio": 17.0
+				}
+			]
+		},
+		{
+			"codigo": "CA05",
+			"nombre": "TERNERA",
+			"productos": [
+				{
+					"codigo": "PLA070041",
+					"nombre": "SOLOMILLO DE TERNERA AL PEDRO XIMENEZ",
+					"precio": 20.0
+				},
+				{
+					"codigo": "PLA070054",
+					"nombre": "LOMO DE TERNERA ANGUS CON SALSA ARGENTINA",
+					"precio": 20.0
+				},
+				{
+					"codigo": "PLA070037",
+					"nombre": "TIMBAL DE RABO DE TORO A LA CORDOBESA",
+					"precio": 16.0
+				}
+			]
+		},
+		{
+			"codigo": "PO01",
+			"nombre": "POSTRES CASEROS",
+			"productos": [
+				{
+					"codigo": "PLA090004",
+					"nombre": "BROCHETA DE FRUTA NATURAL",
+					"precio": 0.0
+				},
+				{
+					"codigo": "PLA090023",
+					"nombre": "COPA DE FRUTA NATURAL",
+					"precio": 2.0
+				},
+				{
+					"codigo": "PLA090017",
+					"nombre": "COPA SUIZA",
+					"precio": 2.6000000000000001
+				},
+				{
+					"codigo": "PLA090019",
+					"nombre": "COULANT DE CHOCOLATE CON HELADO DE VAINILLA",
+					"precio": 3.2000000000000002
+				},
+				{
+					"codigo": "PLA090018",
+					"nombre": "CREPÊS DE CHOCOLATE",
+					"precio": 2.5
+				},
+				{
+					"codigo": "PLA090008",
+					"nombre": "FRESAS CON NATA",
+					"precio": 2.0
+				},
+				{
+					"codigo": "PLA090007",
+					"nombre": "LECHE FRITA CON CREMA INGLESA",
+					"precio": 1.6000000000000001
+				},
+				{
+					"codigo": "PLA090011",
+					"nombre": "MOUSSE DE ARROZ CON LECHE",
+					"precio": 1.6000000000000001
+				},
+				{
+					"codigo": "PLA090014",
+					"nombre": "MOUSSE DE YOGURT Y FRUTAS DEL BOSQUE",
+					"precio": 2.5
+				},
+				{
+					"codigo": "PLA090002",
+					"nombre": "NATILLAS CASERAS",
+					"precio": 1.8
+				},
+				{
+					"codigo": "PLA090024",
+					"nombre": "PASTEL DE QUESO",
+					"precio": 3.2000000000000002
+				},
+				{
+					"codigo": "PLA090013",
+					"nombre": "PIÑA CARAMELIZADA",
+					"precio": 1.6000000000000001
+				},
+				{
+					"codigo": "PLA090025",
+					"nombre": "TORRIJAS RELLENAS",
+					"precio": 2.5
+				}
+			]
+		},
+		{
+			"codigo": "PO02",
+			"nombre": "TARTAS",
+			"productos": [
+				{
+					"codigo": "PLA100020",
+					"nombre": "CARROT CAKE",
+					"precio": 4.2000000000000002
+				},
+				{
+					"codigo": "PLA100029",
+					"nombre": "PASTEL DE AVELLANAS",
+					"precio": 4.2000000000000002
+				},
+				{
+					"codigo": "PLA100030",
+					"nombre": "PASTEL DE FERRERO",
+					"precio": 4.2000000000000002
+				},
+				{
+					"codigo": "PLA100027",
+					"nombre": "PASTEL DE OREOS",
+					"precio": 4.5
+				},
+				{
+					"codigo": "PLA000026",
+					"nombre": "PASTEL KINDER",
+					"precio": 4.5
+				},
+				{
+					"codigo": "PLA100007",
+					"nombre": "PASTEL TRES CHOCOLATES",
+					"precio": 4.2000000000000002
+				},
+				{
+					"codigo": "PLA100033",
+					"nombre": "PASTEL TRES CHOCOLATES IGLU",
+					"precio": 5.0
+				},
+				{
+					"codigo": "PLA100021",
+					"nombre": "RED VELVET",
+					"precio": 4.2000000000000002
+				},
+				{
+					"codigo": "PLA100031",
+					"nombre": "TARTA DE GALLETAS LOTUS",
+					"precio": 4.5
+				},
+				{
+					"codigo": "PLA100020",
+					"nombre": "TARTA DE LA ABUELA",
+					"precio": 4.2000000000000002
+				},
+				{
+					"codigo": "PLA100032",
+					"nombre": "TARTA DE QUESO",
+					"precio": 4.2000000000000002
+				}
+			]
+		},
+		{
+			"codigo": "PO03",
+			"nombre": "HELADOS",
+			"productos": [
+				{
+					"codigo": "PLA110003",
+					"nombre": "HELADO CROCANTI",
+					"precio": 3.2000000000000002
+				},
+				{
+					"codigo": "PLA110005",
+					"nombre": "HELADO DE TIRAMISU",
+					"precio": 3.0
+				},
+				{
+					"codigo": "PLA110008",
+					"nombre": "KINDER BUENO DELICE",
+					"precio": 3.0
+				},
+				{
+					"codigo": "PLA110007",
+					"nombre": "MOUSSE DE MANDARINA",
+					"precio": 5.0
+				},
+				{
+					"codigo": "PLA110009",
+					"nombre": "NUECES DELICE",
+					"precio": 3.5
+				},
+				{
+					"codigo": "PLA110001",
+					"nombre": "ROSETA DE CARAMELO",
+					"precio": 3.2000000000000002
+				},
+				{
+					"codigo": "PLA110006",
+					"nombre": "TULIPA DE TURRON",
+					"precio": 5.0
+				},
+				{
+					"codigo": "PLA110002",
+					"nombre": "TULIPA DE VAINILLA DE TAHITI",
+					"precio": 5.0
+				},
+				{
+					"codigo": "PLA110013",
+					"nombre": "VAPORETTO DE CREMA CATALANA",
+					"precio": 3.0
+				}
+			]
+		},
+		{
+			"codigo": "BO01",
+			"nombre": "TINTOS GRUPO 1",
+			"productos": [
+				{
+					"codigo": "BOD010001",
+					"nombre": "RIOJA MARQUES DE ALTILLO CRIANZA",
+					"precio": null
+				},
+				{
+					"codigo": "BOD010002",
+					"nombre": "RIBERA DEL DUERO PRADO REY ORIGEN",
+					"precio": null
+				}
+			]
+		},
+		{
+			"codigo": "BO02",
+			"nombre": "TINTOS GRUPO 2",
+			"productos": [
+				{
+					"codigo": "BOD020001",
+					"nombre": "RIBERA DEL DUERO CUNE ROBLE",
+					"precio": 1.0
+				},
+				{
+					"codigo": "BOD020002",
+					"nombre": "RIBERA DEL DUERO FINCA RESALSO COSECHA",
+					"precio": 1.0
+				},
+				{
+					"codigo": "BOD020003",
+					"nombre": "RIBERA DEL DUERO MELIOR COSECHA",
+					"precio": 1.0
+				},
+				{
+					"codigo": "BOD020005",
+					"nombre": "RIBERA DEL DUERO PROTOS JOVEN",
+					"precio": 1.0
+				},
+				{
+					"codigo": "BOD020006",
+					"nombre": "RIBERA DEL DUERO SEMBRO COSECHA",
+					"precio": 1.0
+				},
+				{
+					"codigo": "BOD020007",
+					"nombre": "RIOJA AZPILICUETA CRIANZA",
+					"precio": 1.0
+				},
+				{
+					"codigo": "BOD020008",
+					"nombre": "RIOJA RAMON BILBAO CRIANZA",
+					"precio": 1.0
+				}
+			]
+		},
+		{
+			"codigo": "BO03",
+			"nombre": "TINTOS GRUPO 3",
+			"productos": [
+				{
+					"codigo": "BOD030001",
+					"nombre": "RIBERA DEL DUERO EMILIO MORO",
+					"precio": 2.0
+				},
+				{
+					"codigo": "BOD030002",
+					"nombre": "RIBERA DEL DUERO PESQUERA",
+					"precio": 2.0
+				}
+			]
+		},
+		{
+			"codigo": "BO04",
+			"nombre": "BLANCOS GRUPO 1",
+			"productos": [
+				{
+					"codigo": "BOD040001",
+					"nombre": "RUEDA MELIOR DE MATARROMERA VERDEJO",
+					"precio": null
+				},
+				{
+					"codigo": "BOD040002",
+					"nombre": "TIERRA DE CADIZ BARBADILLO SEMIDULCE",
+					"precio": null
+				},
+				{
+					"codigo": "BOD040003",
+					"nombre": "FRIZZY VERDEJO FRIZZANTE",
+					"precio": null
+				}
+			]
+		},
+		{
+			"codigo": "BO05",
+			"nombre": "BLANCOS GRUPO 2",
+			"productos": [
+				{
+					"codigo": "BOD050001",
+					"nombre": "RIOJA RAMON BILBAO VERDEJO",
+					"precio": 1.0
+				},
+				{
+					"codigo": "BOD050002",
+					"nombre": "YLLERA 5.5 VERDEJO FRIZZANTE",
+					"precio": 1.0
+				}
+			]
+		},
+		{
+			"codigo": "BO06",
+			"nombre": "BLANCOS GRUPO 3",
+			"productos": [
+				{
+					"codigo": "BOD060001",
+					"nombre": "RUEDA JOSÉ PARIENTE VERDEJO",
+					"precio": 1.5
+				}
+			]
+		},
+		{
+			"codigo": "BO07",
+			"nombre": "CAVAS",
+			"productos": [
+				{
+					"codigo": "BOD050001",
+					"nombre": "CAVA BONAVAL BRUT NATURE",
+					"precio": null
+				},
+				{
+					"codigo": "BOD050002",
+					"nombre": "CAVA JAUME SERRA BRUT NATURE",
+					"precio": null
+				}
+			]
+		},
+		{
+			"codigo": "BO08",
+			"nombre": "SIDRAS",
+			"productos": [
+				{
+					"codigo": "BOD060001",
+					"nombre": "SIDRA EL GAITERO",
+					"precio": null
+				},
+				{
+					"codigo": "BOD060002",
+					"nombre": "SIDRA EXTRA MAELOC ECOLÓGICA",
+					"precio": null
+				}
+			]
+		},
+		{
+			"codigo": "GU01",
+			"nombre": "PATATAS",
+			"productos": [
+				{
+					"codigo": "PLA080013",
+					"nombre": "ATAÍLLO DE PATATAS",
+					"precio": 0.29999999999999999
+				},
+				{
+					"codigo": "PLA080014",
+					"nombre": "PATATA CANARIA",
+					"precio": 0.69999999999999996
+				},
+				{
+					"codigo": "PLA080001",
+					"nombre": "PATATAS DADO",
+					"precio": 0.29999999999999999
+				},
+				{
+					"codigo": "PLA080003",
+					"nombre": "PATATAS PANADERAS",
+					"precio": 0.29999999999999999
+				}
+			]
+		},
+		{
+			"codigo": "GU02",
+			"nombre": "VERDURAS",
+			"productos": [
+				{
+					"codigo": "PLA080015",
+					"nombre": "ATAÍLLO DE VERDURAS",
+					"precio": 0.69999999999999996
+				},
+				{
+					"codigo": "PLA080008",
+					"nombre": "CALABACÍN RELLENO",
+					"precio": 0.80000000000000004
+				},
+				{
+					"codigo": "PLA080004",
+					"nombre": "CHAMPIÑÓN SALTEADO",
+					"precio": 1.2
+				},
+				{
+					"codigo": "PLA080016",
+					"nombre": "GRATÉN DE PATATAS Y BOLETUS",
+					"precio": 1.1000000000000001
+				},
+				{
+					"codigo": "PLA080017",
+					"nombre": "GRATÉN DE PATATAS Y CALABACIN",
+					"precio": 0.80000000000000004
+				},
+				{
+					"codigo": "PLA080018",
+					"nombre": "JUDÍAS VERDES",
+					"precio": 1.2
+				},
+				{
+					"codigo": "PLA080011",
+					"nombre": "PARRILLADA DE VERDURAS",
+					"precio": 1.0
+				},
+				{
+					"codigo": "PLA080007",
+					"nombre": "SALTEADO DE VERDURAS DE TEMPORADA",
+					"precio": 0.59999999999999998
+				},
+				{
+					"codigo": "PLA080019",
+					"nombre": "TOMATE RELLENO",
+					"precio": 1.0
+				}
+			]
+		},
+		{
+			"codigo": "GU03",
+			"nombre": "ARROCES",
+			"productos": [
+				{
+					"codigo": "PLA080020",
+					"nombre": "RISOTTO DE CARNE",
+					"precio": 0.90000000000000002
+				},
+				{
+					"codigo": "PLA080021",
+					"nombre": "RISOTTO DE SETAS",
+					"precio": 0.90000000000000002
+				}
+			]
+		},
+		{
+			"codigo": "OT01",
+			"nombre": "BARRA LIBRE",
+			"productos": [
+				{
+					"codigo": "OTR010001",
+					"nombre": "BARRA LIBRE 2 HORAS (NIÑOS 50%)",
+					"precio": 13.5
+				},
+				{
+					"codigo": "OTR010002",
+					"nombre": "BARRA LIBRE 3 HORAS (NIÑOS 50%)",
+					"precio": 17.0
+				},
+				{
+					"codigo": "OTR010003",
+					"nombre": "BARRA GIN TONIC PREMIUM",
+					"precio": 2.0
+				},
+				{
+					"codigo": "OTR010004",
+					"nombre": "COCKTELERÍA PREMIUM",
+					"precio": 2.0
+				}
+			]
+		},
+		{
+			"codigo": "OT02",
+			"nombre": "RECENAS",
+			"productos": [
+				{
+					"codigo": "OTR020001",
+					"nombre": "RECENA",
+					"precio": 3.5
+				}
+			]
+		},
+		{
+			"codigo": "OT03",
+			"nombre": "OTROS SERVICIOS NO INCLUIDOS EN EL MENÚ",
+			"productos": [
+				{
+					"codigo": "OTR030001",
+					"nombre": "ANIMACIÓN INFANTIL BODAS",
+					"precio": 150.0
+				},
+				{
+					"codigo": "OTR030002",
+					"nombre": "ANIMACIÓN INFANTIL CELEBRACIONES",
+					"precio": 100.0
+				},
+				{
+					"codigo": "OTR030003",
+					"nombre": "CORTADOR DE JAMÓN",
+					"precio": 80.0
+				},
+				{
+					"codigo": "OTR030004",
+					"nombre": "VENENCIADORA",
+					"precio": null
+				},
+				{
+					"codigo": "OTR030005",
+					"nombre": "CEREMONIA CIVIL EN EL JARDÍN",
+					"precio": 350.0
+				},
+				{
+					"codigo": "OTR030006",
+					"nombre": "PACK DECORACIÓN",
+					"precio": 100.0
+				}
+			]
+		},
+		{
+			"codigo": "OT04",
+			"nombre": "REGALO",
+			"productos": [
+				{
+					"codigo": "OTR040001",
+					"nombre": "2 HORAS DE BARRA LIBRE ADICIONALES",
+					"precio": null
+				},
+				{
+					"codigo": "OTR040002",
+					"nombre": "1 HORA DE BARRA LIBRE ADICIONAL",
+					"precio": null
+				},
+				{
+					"codigo": "OTR040003",
+					"nombre": "DEGUSTACIONES (MÁXIMO 6 PERSONAS)",
+					"precio": null
+				},
+				{
+					"codigo": "OTR040005",
+					"nombre": "AUTOBÚS (ANDÚJAR Y COMARCA)",
+					"precio": null
+				},
+				{
+					"codigo": "OTR040007",
+					"nombre": "ANIMACIÓN INFANTIL",
+					"precio": null
+				},
+				{
+					"codigo": "OTR040008",
+					"nombre": "CEREMONIA CIVIL",
+					"precio": null
+				},
+				{
+					"codigo": "OTR040009",
+					"nombre": "DISK JOCKEY",
+					"precio": null
+				}
+			]
+		}
+	]
+}
